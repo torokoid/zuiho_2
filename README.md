@@ -189,5 +189,5 @@ body::before {
 
 <!-- フッタ -->
  <footer><span class="white">
- Copyright 2023/07/02 S.Hada
+ Copyright 2023/07/04 S.Hada
  </span></footer>

@@ -93,7 +93,7 @@ body::before {
 -->
 <br><br><br><br>
 
-<p align="left">お祝いの会の開催明け、月曜以降に共有された画像集です。</p>
+<p align="left">お祝いの会の開催明け、7月3日(月)以降に共有された画像集です。</p>
 <a href="20230701_099.JPG" data-lightbox="abc"><img src="20230701_099.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_100.JPG" data-lightbox="abc"><img src="20230701_100.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_101.JPG" data-lightbox="abc"><img src="20230701_101.JPG" alt="サンプル画像" width="900" /></a>

@@ -93,7 +93,7 @@ body::before {
 -->
 <br><br><br><br>
 
-<p align="left">お祝いの会会場でストロボ付きのデジイチで撮影された写真です。</p>
+<p align="left">お祝いの会の開催明け、月曜以降に共有された画像集です。</p>
 <a href="20230701_099.JPG" data-lightbox="abc"><img src="20230701_099.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_100.JPG" data-lightbox="abc"><img src="20230701_100.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_101.JPG" data-lightbox="abc"><img src="20230701_101.JPG" alt="サンプル画像" width="900" /></a>
@@ -149,7 +149,7 @@ body::before {
 <p align="left">校友の歌、フルバージョン。</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dlCGoAdqEdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
-<img src="20230718_01.jpg" width="200">	
+<img src="https://torokoid.github.io/zuiho/20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>
 <a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
 	

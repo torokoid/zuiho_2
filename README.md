@@ -70,7 +70,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="left">!!!  元東京都立大泉高等学校柔道部顧問、佐藤幸夫先生「瑞宝小綬章」受章を祝う会  !!!</marquee></span></h1>
 	
 <p align="right">2023年7月1日、佐藤先生お祝いの会の記録！</p>
-<img src="QR_zuiho.png" alt="アクセス用QRコード" width="100">
+<img src="https://torokoid.github.io/zuiho/QR_zuiho.png" alt="アクセス用QRコード" width="100">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>	
 
@@ -95,7 +95,56 @@ body::before {
 <br><br><br><br>
 
 <p align="left">お祝いの会会場でストロボ付きのデジイチで撮影された写真です。</p>
-
+<a href="20230701_099.JPG" data-lightbox="abc"><img src="20230701_099.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_100.JPG" data-lightbox="abc"><img src="20230701_100.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_101.JPG" data-lightbox="abc"><img src="20230701_101.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_102.JPG" data-lightbox="abc"><img src="20230701_102.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_103.JPG" data-lightbox="abc"><img src="20230701_103.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_104.JPG" data-lightbox="abc"><img src="20230701_104.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_105.JPG" data-lightbox="abc"><img src="20230701_105.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_106.JPG" data-lightbox="abc"><img src="20230701_106.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_107.JPG" data-lightbox="abc"><img src="20230701_107.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_108.JPG" data-lightbox="abc"><img src="20230701_108.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_109.JPG" data-lightbox="abc"><img src="20230701_109.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_110.JPG" data-lightbox="abc"><img src="20230701_110.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_111.JPG" data-lightbox="abc"><img src="20230701_111.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_112.JPG" data-lightbox="abc"><img src="20230701_112.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_113.JPG" data-lightbox="abc"><img src="20230701_113.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_114.JPG" data-lightbox="abc"><img src="20230701_114.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_115.JPG" data-lightbox="abc"><img src="20230701_115.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_116.JPG" data-lightbox="abc"><img src="20230701_116.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_117.JPG" data-lightbox="abc"><img src="20230701_117.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_118.JPG" data-lightbox="abc"><img src="20230701_118.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_119.JPG" data-lightbox="abc"><img src="20230701_119.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_120.JPG" data-lightbox="abc"><img src="20230701_120.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_121.JPG" data-lightbox="abc"><img src="20230701_121.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_122.JPG" data-lightbox="abc"><img src="20230701_122.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_123.JPG" data-lightbox="abc"><img src="20230701_123.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_124.JPG" data-lightbox="abc"><img src="20230701_124.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_125.JPG" data-lightbox="abc"><img src="20230701_125.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_126.JPG" data-lightbox="abc"><img src="20230701_126.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_127.JPG" data-lightbox="abc"><img src="20230701_127.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_128.JPG" data-lightbox="abc"><img src="20230701_128.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_129.JPG" data-lightbox="abc"><img src="20230701_129.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_130.JPG" data-lightbox="abc"><img src="20230701_130.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_131.JPG" data-lightbox="abc"><img src="20230701_131.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_132.JPG" data-lightbox="abc"><img src="20230701_132.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_133.JPG" data-lightbox="abc"><img src="20230701_133.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_134.JPG" data-lightbox="abc"><img src="20230701_134.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_135.JPG" data-lightbox="abc"><img src="20230701_135.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_136.JPG" data-lightbox="abc"><img src="20230701_136.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_137.JPG" data-lightbox="abc"><img src="20230701_137.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_138.JPG" data-lightbox="abc"><img src="20230701_138.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_139.JPG" data-lightbox="abc"><img src="20230701_139.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_140.JPG" data-lightbox="abc"><img src="20230701_140.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_141.JPG" data-lightbox="abc"><img src="20230701_141.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_142.JPG" data-lightbox="abc"><img src="20230701_142.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_143.JPG" data-lightbox="abc"><img src="20230701_143.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_144.JPG" data-lightbox="abc"><img src="20230701_144.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_145.JPG" data-lightbox="abc"><img src="20230701_145.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_146.JPG" data-lightbox="abc"><img src="20230701_146.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_147.JPG" data-lightbox="abc"><img src="20230701_147.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20230701_148.JPG" data-lightbox="abc"><img src="20230701_148.JPG" alt="サンプル画像" width="900" /></a>
 
 <img src="20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>

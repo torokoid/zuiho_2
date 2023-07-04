@@ -76,16 +76,14 @@ body::before {
 
 <h1><span class="white">掲載概要</span></h1>
 <div class="yellow"> 
-<h1>2023年7月1日、佐藤先生の「瑞宝小綬章」受章を祝う会の映像の記録です。<br>
-掲載順は高画質のデジイチ画像をトップエリアに配置、<br>
-次の段が開催当日、参加者達からその日のうちにLINE共有されたのスマホ画像と続きます。<br>
-その下は、この会の開催経緯のお話しに続く動画集です。<br>
-動画集はYouTubeリンクですが、限定公開設定ですのでこのリンクからしか入れません。<br><br>
+<h1>2023年7月1日、佐藤先生の「瑞宝小綬章」受章を祝う会の映像の記録、その2です。<br>
+当初1ページで収まる公算でしたが、予想を超えた画像数となり2ページ目の増刷となりました。<br>
+最下段は、YouTube動画リンクですが、限定公開設定ですのでこのリンクからしか入れません。<br><br>
 佐藤先生、この度は本当におめでとうございます。<br><br>
 結びに、総勢８７名参加の２時間半にわたる盛大な会を主催いただきました、幹事団の皆様、どうも有難うございました。</h1></div>
 <!--
 <div class="yellow"> 
-<h1>2023年7月1日、佐藤先生の「瑞宝小綬章」受章を祝う会の映像の記録です。<br>
+<h1>2023年7月1日、佐藤先生の「瑞宝小綬章」受章を祝う会の映像の記録、その２です。<br>
 掲載順は33期山田さんのデジイチ画像をトップエリアに、<br>
 開催当日、その日のうちにLINE共有された32期春木さん、37期柳浦さん、30期東さんのスマホ画像と続きます。<br>
 その下は、この会の開催経緯のお話しに続く動画集です。<br>
@@ -146,6 +144,10 @@ body::before {
 <a href="20230701_147.JPG" data-lightbox="abc"><img src="20230701_147.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230701_148.JPG" data-lightbox="abc"><img src="20230701_148.JPG" alt="サンプル画像" width="900" /></a>
 
+<br>
+<p align="left">校友の歌、フルバージョン。</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlCGoAdqEdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br><br>
 <img src="20230718_01.jpg" width="200">	
 <p align="left">お祝いの会、案内状</p>
 <a href="https://torokoid.github.io/zuiho/20230701_01.png" target="_blank"><img src="https://torokoid.github.io/zuiho/20230701_01.png" alt="サンプル画像" width="900" /></a>
